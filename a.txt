@@ -3,3 +3,5 @@ File A
 First change after commit
 
 second change
+
+thirst change
